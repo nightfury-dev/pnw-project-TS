@@ -1,0 +1,21 @@
+{
+  "name": "map-the-paths-uploader",
+  "productName": "map-the-paths-uploader",
+  "version": "0.0.3",
+  "description": "Map the Paths Desktop Uploader allows you to manage your street-level map imagery.",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Trek View",
+    "email": "hq@trekview.org",
+    "url": "https://github.com/trek-view/mtp-desktop-uploader"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../internals/scripts/BabelRegister.js ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "exiftool-vendored": "^11.5.0"
+  },
+  "devDependencies": {}
+}

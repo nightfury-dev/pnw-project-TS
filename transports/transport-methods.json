@@ -1,0 +1,303 @@
+{
+  "Earth": {
+    "type": "Earth",
+    "icon": "fas fa-tree",
+    "description": "",
+    "children": [
+      {
+        "type": "Bicycle",
+        "icon": "fas fa-bicycle",
+        "description": "",
+        "mtp_api": "Bicycle",
+        "strava_activity": "Ride"
+      },
+      {
+        "type": "Walk",
+        "icon": "fas fa-walking",
+        "description": "",
+        "mtp_api": "Walk",
+        "strava_activity": "Walk"
+      },
+      {
+        "type": "Scooter",
+        "icon": "fas fa-tree",
+        "description": "",
+        "mtp_api": "Scooter",
+        "strava_activity": "Workout"
+      },
+      {
+        "type": "Skateboard",
+        "icon": "fas fa-tree",
+        "description": "",
+        "mtp_api": "Skateboard",
+        "strava_activity": "Skateboard"
+      },
+      {
+        "type": "Rollerskate",
+        "icon": "fas fa-tree",
+        "description": "",
+        "mtp_api": "Rollerskate",
+        "strava_activity": "InlineSkate"
+      },
+      {
+        "type": "Rock Climbing",
+        "icon": "fas fa-skating",
+        "description": "",
+        "mtp_api": "Rock Climbing",
+        "strava_activity": "RockClimbing"
+      },
+      {
+        "type": "Wheelchair",
+        "icon": "fas fa-wheelchair",
+        "description": "",
+        "mtp_api": "Wheelchair",
+        "strava_activity": false
+      },
+      {
+        "type": "Car",
+        "icon": "fas fa-car",
+        "description": "",
+        "mtp_api": "Car",
+        "strava_activity": false
+      },
+      {
+        "type": "Electric Car",
+        "icon": "fas fa-charging-station",
+        "description": "",
+        "mtp_api": "Electric Car",
+        "strava_activity": false
+      },
+      {
+        "type": "Electric Bicycle",
+        "icon": "fas fa-bicycle",
+        "description": "",
+        "mtp_api": "Electric Bicycle",
+        "strava_activity": "EBikeRide"
+      },
+      {
+        "type": "Electric Scooter",
+        "icon": "fas fa-car-battery",
+        "description": "",
+        "mtp_api": "Electric Scooter",
+        "strava_activity": false
+      }
+    ]
+  },
+  "Snow": {
+    "type": "Snow",
+    "icon": "fas fa-snowflake",
+    "description": "",
+    "children": [
+      {
+        "type": "Ski",
+        "icon": "fas fa-skiing-nordic",
+        "description": "",
+        "mtp_api": "Ski",
+        "strava_activity": "NordicSki"
+      },
+      {
+        "type": "Snowboard",
+        "icon": "fas fa-snowflake",
+        "description": "",
+        "mtp_api": "Snowboard",
+        "strava_activity": "Snowboard"
+      },
+      {
+        "type": "Snowshoe",
+        "icon": "fas fa-snowflake",
+        "description": "",
+        "mtp_api": "Snowshoe",
+        "strava_activity": "Snowshoe"
+      },
+      {
+        "type": "Ice Skating",
+        "icon": "fas fa-snowflake",
+        "description": "",
+        "mtp_api": "Ice Skating",
+        "strava_activity": "IceSkate"
+      },
+      {
+        "type": "Snowmobile",
+        "icon": "fas fa-car-battery",
+        "description": "",
+        "mtp_api": "Snowmobile",
+        "strava_activity": false
+      }
+    ]
+  },
+  "Water": {
+    "type": "Water",
+    "icon": "fas fa-water",
+    "description": "",
+    "children": [
+      {
+        "type": "Swim",
+        "icon": "fas fa-swimmer",
+        "description": "",
+        "mtp_api": "Swim",
+        "strava_activity": "Swim"
+      },
+      {
+        "type": "Paddleboard",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Paddleboard",
+        "strava_activity": "StandUpPaddling"
+      },
+      {
+        "type": "Scuba Dive",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Scuba Dive",
+        "strava_activity": "Workout"
+      },
+      {
+        "type": "Surf",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Surf",
+        "strava_activity": "Surfing"
+      },
+      {
+        "type": "Windsurf",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Windsurf",
+        "strava_activity": "Windsurf"
+      },
+      {
+        "type": "Kiteboard",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Kiteboard",
+        "strava_activity": "Kitesurf"
+      },
+      {
+        "type": "Canoe",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Canoe",
+        "strava_activity": "Canoeing"
+      },
+      {
+        "type": "Freedive",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Freedive",
+        "strava_activity": "Workout"
+      },
+      {
+        "type": "Kayak",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Kayak",
+        "strava_activity": "Kayaking"
+      },
+      {
+        "type": "Row",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Row",
+        "strava_activity": "Rowing"
+      },
+      {
+        "type": "Sail",
+        "icon": "fas fa-water",
+        "description": "",
+        "mtp_api": "Sail",
+        "strava_activity": "Sail"
+      },
+      {
+        "type": "Plane",
+        "icon": "fas fa-plane",
+        "description": "",
+        "mtp_api": "Plane",
+        "strava_activity": false
+      },
+      {
+        "type": "Helicopter",
+        "icon": "fas fa-helicopter",
+        "description": "",
+        "mtp_api": "Helicopter",
+        "strava_activity": false
+      },
+      {
+        "type": "Drone",
+        "icon": "fas fa-car-battery",
+        "description": "",
+        "mtp_api": "Drone",
+        "strava_activity": false
+      },
+      {
+        "type": "Boat",
+        "icon": "fas fa-car-battery",
+        "description": "",
+        "mtp_api": "Boat",
+        "strava_activity": false
+      }
+    ]
+  },
+  "Air": {
+    "type": "Air",
+    "icon": "fas fa-cloud",
+    "description": "",
+    "children": [
+      {
+        "type": "Parachute",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "Parachute",
+        "strava_activity": false
+      },
+      {
+        "type": "Paraglide",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "Paraglide",
+        "strava_activity": false
+      },
+      {
+        "type": "Hang Glide",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "Hang Glide",
+        "strava_activity": false
+      },
+      {
+        "type": "Wingsuit",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "Wingsuit",
+        "strava_activity": false
+      },
+      {
+        "type": "BASE Jump",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "BASE Jump",
+        "strava_activity": false
+      },
+      {
+        "type": "Glider",
+        "icon": "fas fa-cloud",
+        "description": "",
+        "mtp_api": "Glider",
+        "strava_activity": false
+      }
+    ]
+  },
+  "Other": {
+    "type": "Other",
+    "icon": "fas fa-question-circle",
+    "description": "",
+    "children": [
+      {
+        "type": "Unlisted",
+        "icon": "fas fa-question-circle",
+        "description": "",
+        "mtp_api": "Unlisted",
+        "strava_activity": false
+      }
+    ]
+  }     
+}
